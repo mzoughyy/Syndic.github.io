@@ -1,0 +1,1 @@
+web gunicorn syndic.wsgi.application --log-file -
